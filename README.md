@@ -1,4 +1,9 @@
 # Computer Programming - Assignment 5
+### Instructions to compile and run (all done on Ubuntu 20.04)
+```
+$ gcc code.c
+$ ./a.out
+```
 
 ### Link to Questions:
 1. [Valentine's Day Dream](./Valentine's-Day-Dream)
